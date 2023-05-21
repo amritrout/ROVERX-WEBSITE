@@ -358,6 +358,11 @@
   .number-counters-minimal .nbr-item {
     margin-bottom: 50px;
   }
+	.circles-counters, .circles-counters-dark-bg{
+    background-attachment: inherit;
+
+
+  }
 }
 
 @media (max-width: 770px) {
