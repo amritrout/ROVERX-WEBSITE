@@ -3519,8 +3519,8 @@ fieldset[disabled] .form-control:hover {
 
 .video-bg-section {
   height: 365px;
-  background: url(http://placehold.it/2440x1578);
-  background-position: 50%;
+  background: url(img/K.jpg);
+  background-position: 100%;
   background-size: cover;
 }
 
